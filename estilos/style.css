@@ -7,6 +7,16 @@ body {
     background-color: blueviolet;
 }
 
+h1 {
+    float: right;
+    width: min-content;
+    height: min-content;
+}
+
+img {
+    float:
+}
+
 main {
     background-color: white;
     width: 500px;
