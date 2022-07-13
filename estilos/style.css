@@ -8,13 +8,12 @@ body {
 }
 
 h1 {
-    float: right;
-    width: min-content;
-    height: min-content;
+    float: left;
+    font-size: 35px;
 }
 
-img {
-    float:
+img h1 {
+    float: right;
 }
 
 main {
